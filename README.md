@@ -2,7 +2,7 @@
 
 Portal web estático donde un estudiante de Ingeniería de Software (turno vespertino, ciclo 2026-2) puede consultar en un solo lugar su horario, sus calificaciones y sus trámites escolares.
 
-> Proyecto académico. La universidad, la alumna y todos los datos que aparecen son ficticios.
+> Proyecto académico. La universidad, el estudiante y todos los datos que aparecen son ficticios.
 
 ## Secciones
 
